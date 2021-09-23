@@ -1,10 +1,17 @@
-## Welcome to the SUPER-DUPER-Hepta-Journey!
+# **Welcome to the SUPER-DUPER-Hepta-Journey!**
 
 ### Story Card
 
-As a:
-We Want:
-So That:
+**As a:** (Story Points = Med👕)
 
-### Developers
+**We Want:**
+
+**So That:**
+
+## Comments/Steps to implement 🥇
+
+
+
+
+## **Developers Notes:**
 
