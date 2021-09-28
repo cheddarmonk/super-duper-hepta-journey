@@ -1,5 +1,5 @@
 
-# Blockchained Command Line Interface (bCLI)
+# Relationship and Birthday Gift Tracker
 
 ## Table of contents
 
