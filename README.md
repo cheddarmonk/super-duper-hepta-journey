@@ -1,5 +1,5 @@
 # **Welcome to the Super-DuperR-Hepta-Journey!**
-[Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki|WikiPage)
+[Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki)
 
 ### Story Card
 
