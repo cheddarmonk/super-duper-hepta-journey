@@ -1,5 +1,5 @@
 
-# Relationship and Birthday Gift Tracker
+# Birthday and Relationship and Gift Tracker
 
 ## Table of contents
 * [Main idea](#Main-idea)
@@ -18,34 +18,32 @@
 
 
 ## Main Idea:
-Develope a full stack application that stores, reminds, and cataloges birthdays, wedding anniversaries, and other important dates and events and the gifts associated with the evetn.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
+Develope a full stack application that stores, reminds, and cataloges birthdays, wedding anniversaries, and other important dates/events and records the gifts associated with the event.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview:
-There are many calendar applications on the market that provide similar functionality.  The capabilites and functions of these applications do not provide a way for the user to catalog events into a database and retrive them according to occacion, or supplied gift for for the event.  This application will allow the user to see what gift was supplied, categories of events over multiple year time span.
+There are many calendar applications on the market that provide similar functionality.  The capabilities and functionality of these applications do not provide a way for the user to catalog events into a database and retrieve them according to occasion or supplied gift for the event.  This application will allow the user to see what gift was supplied and the categories of events over multiple year time span.
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Background:
-People use technology on a daily basis to help with mundane simple tasks that are often over looked or forgotten.  Forgetting your loved ones birthday, or wedding anniversary can create friction in a relationship and possibly fracture and end the relationship.  Having an application that will remind you of these important dates gives you the freedom of not focusing on the life event date, but more importantly allows you to focus on the gift.
-
+People use technology daily to help with mundane simple tasks that are often overlooked or forgotten.  Forgetting a birthday, or wedding anniversary can create friction in a relationships, cause family ties to be severed and possibly end a relationship.  Having an application that helps keep track of these important dates provides the freedom of focusing on the gift and making it more meaninful.
 ![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg)
 <p align="center">
  
 </p>
-The concept of reminders in not new and dynamic but it is an emerging market for development.  It provides an innovative ways to let a person know you are thinking about them, care and love them.
+The concept of reminders applications in not new but, it is an emerging market for development.  This approach provides an innovative way to let a person know you are thinking about them, care and love them.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 
 ## Objectives:
-Demonstrate the development of a full stack application by:
 1. Developing a front end web interface a user can interact with.
-1. Processing and persistantly storing data to a backend database.
-1. Retriving and updating the persistent storage datasets as a user interacts with the web interface.
+1. Processing and persistently storing data to a backend database.
+1. Retrieving and updating the persistent storage datasets as a user interacts with the web interface
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Scope:
-This will be an operational prototype of birthday and gift tracker application.  The application will be an interactive web application that allows for user input, storage, and data retrival.  The application will interact with a Mongo DB.  The Mondog DB will be the persistent storage device for data retrival and updating.  Other fuctional interactions of the application will be possible for future development. 
+This will be an operational prototype of birthday and gift tracker application.  The application will be an interactive web application that allows user input, storage, and data retrieval.  The application will interact with a Mongo DB.  The Mongo DB will be a persistent storage device for creation, retrieval,  updating, and deleting (CRUD) operations.  Other functional iterations of the application will be possible for future development.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
