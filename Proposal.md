@@ -17,7 +17,7 @@
 ---
 
 
-## Main idea
+## Main Idea:
 Develope a full stack application that stores, reminds, and cataloges birthdays, wedding anniversaries, and other important dates and events and the gifts associated with the evetn.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview:
