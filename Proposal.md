@@ -12,8 +12,7 @@
    * [View](#View)
 * [Oportunities and challenges](#Oportunities-and-challenges)
 * [Conclusions](#Conclusions)
-* [Multimedia](#Multimedia)
-* [Resource center](#Resource-center)
+
 ---
 
 
@@ -63,30 +62,14 @@ For this objective, the idea is to build a functional application that provides 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## View:
-To obtain a more user-friendly view of the data, we will add to the frontend of our project the template provided for the original prototype. This new view will be used for data audit type review, so we will call it Audit Page. 
+To better understand the the data, and how it will be processed we are providing a visula representation of frontend of our project, backend and how the data will be rendered while processing thorugh the full stack.
 
   ![view](https://user-images.githubusercontent.com/54637063/135468905-9b871d2d-ad8d-4332-be6b-cb1f2be83eb3.png)
 
-The purpose of this view is to inspect the number of commands that each user has performed through its search.
-
-What we want is to be shown who executed it, to which service, the number and the command in question.  Although we have a great base to be able to display such information, it is necessary to make some small changes:
-
-First we must obtain the information from the source, that is, from the `blockchain.js` file via `app.js`. The balance is already given, only that, as each transaction is assigned a value of 1, we need the balance to be positive. On the other hand, we are also interested in the command of that transaction. All these instructions are in the `getAddressData` method of the prototype. We apply the following changes.
-
+The purpose of this view is to provide a visual representation of the layout and data flow.
 
 ## Oportunities and challenges:
-In recent years, the issue of data security and privacy has become very important. It is so important that governments have implemented specific policies for its control and management. Platforms are required to protect the integrity of users' information and to provide them with security certainty. 
-
-The digital commerce boom has also been impressive in recent decades. Today, most transactions are carried out digitally, so the applications and platforms used for this purpose must have excellent security for its operation, in addition to providing efficient management for both customers and companies.
-
-While a blockchain operating system would offer many unequivocal advantages in terms of these last points, the truth is that its implementation and integration would not be so easy for three reasons: the change culture, the cost and the market.
-
-We are currently so used to traditional operating systems that adopting another one would be somewhat uncomfortable, and many of the productive applications we use today would also have to be migrated to the new platform in order to continue to be used. And even if the functionality of the blockchain operating system were the same as any other traditional operating system, we would still have reservations about its security and stability, especially for applications with a large-scale deployment.
-
-An important and paradoxical point at this point is who can access the system's transaction information, i.e., the privacy of the user's actions. The default system would offer a great level of detail of the movements made. Is this valid? There are conflicting opinions: on the one hand, there are those who defend data transparency, on the other hand there are those who fight for strict privacy. It is a question whose answer will undoubtedly generate a great deal of debate on this point. My comment would be in relation to good data management for purposes previously established and agreed upon by all parties involved; it is proven that Blockchain technology does offer data protection through highly secure and effective algorithms.
-
-The second factor is cost. The infrastructure required to support the operations of a blockchain operating system is very expensive, as supporting all its complex operations requires a lot of processing power and storage. Not all companies could afford the transition. Moreover, it also leads to a lot of investment in addition to the monetary one. To learn a new operating system requires a knowledge base deep enough to give certainty about its correct operation, and this, paradoxically, happens when users are completely immersed in it without knowing enough yet. Human resources and their training remain essential at this point.
-
+With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addtion to the juggling of many tasks all of these task have to be centraly located and accesable constently while on the job, or while traveling with family and friends.  Having a app that handles the time consuming scheduleing is another stresser you need not worriy about.  Like any technolgy there are challenges that must be considered.  Prvacy is at the front of all of our minds.  The information the application will be hosting is very sensative and must be stored safely and with persoanl privacy in mind.
 
 ## Conclusions:
 As we can see, blockchain operating systems offer us a full bunch of software by taking advantage of all of the overall blockchain concepts, allowing the integration of the current and future Blockchain Ecosystem on a single operating system platform. The efficiency, reliability, privacy and security are key values of this highly new approach of interacting with computer systems.
@@ -97,60 +80,5 @@ The contemporary trends of commerce will force us to adapt new ways to do things
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
-## Multimedia:
-<a href="https://www.loom.com/embed/a9af0b0d6cee44b18e765589c930ac2f" target="_blank"><p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/88801826/133354136-4fe76e8b-4064-4b6e-bd92-45e787386f7d.png">
-</p></a>
 
-<a href="https://www.loom.com/embed/0845843780544510ae45a5c5cf03b2e5" target="_blank"><p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/88801826/133354529-4e734268-96af-4ed3-835e-f9c69167e7f5.png">
-</p></a>
 
-<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
-
-## Resource center
-
-_The blockchain prototype used in this project was generously provided by Dr. Barry Cumbie, from the University of North Alabama, on the United States, in conjunction with the Anáhuac University, on México, for the course of Blockchain with academic purposes_.
-
-Go to the [bCLI  repository ](https://github.com/rusejo/bCLI) if you want to download and test the project.
-
-Go to my [raw notes and dev journey](https://github.com/rusejo/blockchain-journey/blob/main/bcli-dev-journal.md) if you want to to know the draft of the development of this project.
-
-<details>
-    <summary>Click here to see the <b>Source Information.</b></summary>
-    <a href="https://www.guru99.com/operating-system-tutorial.html"><br />
-        Singh, A. (2021, January 18). <i>Types of Operating Systems</i>. GeeksForGeeks
-    </a>
-    <br />
-    <a href="https://cryptoseq.medium.com/what-is-a-blockchain-operating-system-and-what-are-the-benefits-c561d8275de6">Seq.
-        (2019, September 8). <i>What is a blockchain operating system and what are the benefits?</i> Medium
-    </a>
-    <br />
-    <a href="https://www.investopedia.com/terms/b/blockchain-operating-system.asp">
-        Frankenfield, J. (2021, April 1). <i>Blockchain Operating System.</i> Investopedia
-    </a>
-    <br />
-    <a href="https://www.blockchain-council.org/blockchain/blockchain-operating-system-a-complete-overview/">
-        Kumar, T. (n.d). <i>Blockchain Operating System: A Complete Overview.</i> Blockchain Council
-    </a>
-    <br />
-    <a
-        href="https://www.forbes.com/sites/adrianbridgwater/2018/07/03/what-is-a-blockchain-operating-system/?sh=633eb39a36a">
-        Bridgwater, A. (2018, July 3). <i>What Is A Blockchain Operating System?</i> Forbes
-    </a>
-    <br />
-    <a href="https://medium.com/jspoint/a-beginners-guide-to-creating-desktop-applications-using-electron-824da5665047">
-        Hiwarale, U. (2020, December 24). <i>A beginner’s guide to creating desktop applications using Electron</i>
-        Medium
-    </a>
-    <br />
-    <a href="https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97">
-        Patnaik, A. (2020, October 17). <i>The Ultimate Guide to Electron with React</i> Medium
-    </a>
-    <br />
-    <a href="https://searchapparchitecture.techtarget.com/definition/RESTful-API">
-        S. Gillis, A. (2020, September). <i>REST API (RESTful API) </i> TechTarget
-    </a>
-</details>
-
-<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
