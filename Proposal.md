@@ -65,9 +65,7 @@ For this objective, the idea is to build a functional application that provides 
 ## View:
 To obtain a more user-friendly view of the data, we will add to the frontend of our project the template provided for the original prototype. This new view will be used for data audit type review, so we will call it Audit Page. 
 
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/88801826/133298975-2d4fa221-79c5-4610-ab5e-5b9776819bf3.png">
-</p>
+  ![view](https://user-images.githubusercontent.com/54637063/135468905-9b871d2d-ad8d-4332-be6b-cb1f2be83eb3.png)
 
 The purpose of this view is to inspect the number of commands that each user has performed through its search.
 
