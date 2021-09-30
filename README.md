@@ -24,10 +24,10 @@
 - Explain how to test the app locally.  Test for bugs, programing logical errors ect.
 
 
-## Deploy App to persistent URL
+### Deploy App to persistent URL
 - Deploy app to persistent URL for use and more testing.  
 
-# How to know when you are done. Acceptance Criteria 
+## How to know when you are done. Acceptance Criteria 
 - State criteria for user satisfaction and app functional use.
 
 
