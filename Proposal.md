@@ -1,5 +1,5 @@
 
-# Birthday and Relationship and Gift Tracker
+# Personal Relationship Tracker with Gift Management
 
 ## Table of contents
 * [Main idea](#Main-idea)
