@@ -10,21 +10,21 @@
 * [Development](#Development)
    * [Architecture](#Architecture) 
    * [View](#View)
-* [Oportunities and challenges](#Oportunities-and-challenges)
+* [Opportunities and challenges](#Opportunities-and-challenges)
 * [Conclusions](#Conclusions)
 
 ---
 
 
 ## Main Idea:
-Develope a full stack application that stores, reminds, and cataloges birthdays, wedding anniversaries, and other important dates/events and records the gifts associated with the event.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
+Develop a full stack application that stores, reminds, and catalogs birthdays, wedding anniversaries, and other important dates/events and records the gifts associated with the event.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview:
 There are many calendar applications on the market that provide similar functionality.  The capabilities and functionality of these applications do not provide a way for the user to catalog events into a database and retrieve them according to occasion or supplied gift for the event.  This application will allow the user to see what gift was supplied and the categories of events over multiple year time span.
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Background:
-People use technology daily to help with mundane simple tasks that are often overlooked or forgotten.  Forgetting a birthday, or wedding anniversary can create friction in a relationships, cause family ties to be severed and possibly end a relationship.  Having an application that helps keep track of these important dates provides the freedom of focusing on the gift and making it more meaninful.
+People use technology daily to help with mundane simple tasks that are often overlooked or forgotten.  Forgetting a birthday, or wedding anniversary can create friction in a relationships, cause family ties to be severed and possibly end a relationship.  Having an application that helps keep track of these important dates provides the freedom of focusing on the gift and making it more meaningful.
 ![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg)
 <p align="center">
  
@@ -68,7 +68,7 @@ To better understand the data, and how it will be processed we are providing a v
 
 The purpose of this view is to provide a visual representation of the layout and data flow.
 
-## Oportunities and challenges:
+## Opportunities and challenges:
 With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addition to the juggling of many tasks all these task must be centrally located and accessible constantly while on the job, or while traveling with family and friends.  Having an app that handles the time consuming scheduling is another stressor you need not worry about.  Like any technology there are challenges that must be considered.  Privacy is at the front of all of our minds.  The information the application will store is very sensitive and must be stored safely and with personal privacy in mind.
 
 ## Conclusions:
