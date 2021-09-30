@@ -45,7 +45,7 @@ Demonstrate the development of a full stack application is possible by:
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Scope:
-This will only be an operational prototype of birthday and gift tracker.  The application will have a web interface the user can input categories, dates, personal messages, and remarks section.  The application will interact with a Mongo DB  as the persistent for data retrival and updating.  Other fuctional interactions of the application will be possible for future development. 
+This will only be an operational prototype of birthday and gift tracker application.  The application will have a web interface the user can input categories, dates, personal messages, and remarks section.  The application will interact with a Mongo DB  as the persistent for data retrival and updating.  Other fuctional interactions of the application will be possible for future development. 
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
