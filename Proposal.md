@@ -50,16 +50,11 @@ This will be an operational prototype of birthday and gift tracker application. 
 ## Development:
 
 ### Architecture
-For the purpose of our objective, the idea is to build a prototype application that visually resembles a command line, but internally can actually access the resources of this, behaving as such and being able to perform the same operations as if it were running natively within the operating system.
-
-Therefore, our application to be developed will be based on Electron, which is a multiprocess and multiplatform architecture framework to create desktop applications using web technologies. Electron integrates Node.js to access the system resources in the backend, and the Chromium browser to build the frontend. With this, we are able to use HTML, CSS and Javascript to customize what is displayed to the user. 
-
-Since Electron is in charge of integrating the backend and the frontend in a single architecture, we will have two important processes. The `main` and the `renderer`. The first one controls the state of the application while the second one controls the interface with the user. When an Electron application is executed, the `main` process is launched, which is in charge of accessing the system resources and starting the `renderer` process. An important point to mention is that the `main` process does not have direct access to frontend methods and resources.
-
-Summarizing the above, the `main` process can be seen as a browser, and the `renderer` process as one of its tabs. 
-
+For this objective, the idea is to build a functional application that provides a GUI interface to interact with a persistent database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the front end application will have `AngularJS` included for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes it ideal for any server technology.
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/88801826/133124078-a40ec00a-4548-4b29-bd34-b15e5b8453a0.png">
+   
+![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG)
+
 </p>
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
