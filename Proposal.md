@@ -37,15 +37,15 @@ The concept of reminders in not new and dynamic but it is an emerging market for
 
 
 ## Objectives:
-Demonstrate the development of a full stack application is possible by:
-1. Developing a front end web interface the user can interact with.
+Demonstrate the development of a full stack application by:
+1. Developing a front end web interface a user can interact with.
 1. Processing and persistantly storing data to a backend database.
-1. Retriving and updating the persistent storage datasets as a user interacts with the web interface..
+1. Retriving and updating the persistent storage datasets as a user interacts with the web interface.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Scope:
-This will only be an operational prototype of birthday and gift tracker application.  The application will have a web interface the user can input categories, dates, personal messages, and remarks section.  The application will interact with a Mongo DB  as the persistent for data retrival and updating.  Other fuctional interactions of the application will be possible for future development. 
+This will be an operational prototype of birthday and gift tracker application.  The application will be an interactive web application that allows for user input, storage, and data retrival.  The application will interact with a Mongo DB.  The Mondog DB will be the persistent storage device for data retrival and updating.  Other fuctional interactions of the application will be possible for future development. 
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
