@@ -2,7 +2,7 @@
 [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki)
 
 # User Story (Story Points = Med👕)
-**As a** end user of a `NodeJs` Birthday and gift Tracker application  
+**As a** end user of a `NodeJs` Birthday and Gift Tracker application  
 
 **I want** use the application on the web and mobile devices [like this one](insert link to herku) 👍
 
