@@ -2,7 +2,6 @@
 # Relationship and Birthday Gift Tracker
 
 ## Table of contents
-
 * [Main idea](#Main-idea)
 * [Overview](#Overview)
 * [Background](#Background)
@@ -33,11 +32,9 @@
 * [Resource center](#Resource-center)
 ---
 
+
 ## Main idea
-
-Extend the functionality of blockchain concepts into the command line of the OS in order to register all the activities on the chain.
-
-<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
+Develope a full stack application that stores, reminds, and cataloges birthdays, wedding anniversaries, and other important dates and vents and the gifts associated with the evetn.  <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview
 
