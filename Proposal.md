@@ -50,8 +50,9 @@ This will be an operational prototype of birthday and gift tracker application. 
 ## Development:
 
 ### Architecture
-For this objective, the idea is to build a functional application that provides a GUI interface with a persistent database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the front end application will have `AngularJS` included for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes `AngularJs`ideal for any dynamic webpage and server technology.
+For this objective, the idea is to build a functional application that provides a GUI interface with a persistent database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the front end application will have `AngularJS` included for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes `AngularJs` ideal for any dynamic webpage and server technology.  See more of what [`AngularJs`](https://angular.io/) can do 
 <p align="center">
+  
 ![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG)
 </p>
 
