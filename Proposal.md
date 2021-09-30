@@ -62,14 +62,14 @@ For this objective, the idea is to build a functional application that provides 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## View:
-To better understand the the data, and how it will be processed we are providing a visula representation of frontend of our project, backend and how the data will be rendered while processing thorugh the full stack.
+To better understand the data, and how it will be processed we are providing a visual representation of frontend of our project, backend and how the data will be rendered while processing through the full stack.
 
   ![view](https://user-images.githubusercontent.com/54637063/135468905-9b871d2d-ad8d-4332-be6b-cb1f2be83eb3.png)
 
 The purpose of this view is to provide a visual representation of the layout and data flow.
 
 ## Oportunities and challenges:
-With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addtion to the juggling of many tasks all of these task have to be centraly located and accesable constently while on the job, or while traveling with family and friends.  Having a app that handles the time consuming scheduleing is another stresser you need not worriy about.  Like any technolgy there are challenges that must be considered.  Prvacy is at the front of all of our minds.  The information the application will be hosting is very sensative and must be stored safely and with persoanl privacy in mind.
+With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addition to the juggling of many tasks all these task must be centrally located and accessible constantly while on the job, or while traveling with family and friends.  Having an app that handles the time consuming scheduling is another stressor you need not worry about.  Like any technology there are challenges that must be considered.  Privacy is at the front of all of our minds.  The information the application will store is very sensitive and must be stored safely and with personal privacy in mind.
 
 ## Conclusions:
 As we can see, blockchain operating systems offer us a full bunch of software by taking advantage of all of the overall blockchain concepts, allowing the integration of the current and future Blockchain Ecosystem on a single operating system platform. The efficiency, reliability, privacy and security are key values of this highly new approach of interacting with computer systems.
