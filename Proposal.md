@@ -24,12 +24,15 @@ There are many calendar applications on the market that provide similar function
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Background:
-People use technology daily to help with mundane simple tasks that are often overlooked or forgotten.  Forgetting a birthday, or wedding anniversary can create friction in a relationships, cause family ties to be severed and possibly end a relationship.  Having an application that helps keep track of these important dates provides the freedom of focusing on the gift and making it more meaningful.
+We've all heard the story of the husband who forgot his wife's birthday or their anniversary. If only he had remembered then there wouldn't be any couch surfing for him. When that friend goes above and beyond to get you that nice single malt whiskey for your birthday and in return you send him a 6-pack of bud-light. It just doesn't seem right. With the right tool you can avoid these issues and experience the freedom that comes with knowing what the right gift is for the right person. 
+
+
 ![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg)
 <p align="center">
  
 </p>
-The concept of reminders applications in not new but, it is an emerging market for development.  This approach provides an innovative way to let a person know you are thinking about them, care and love them.
+
+The concept of reminders applications in not new but, it has room for development. Our approach provides an innovative way to help you let that special person know that you care. Now is the time to make the most of your relationships.  
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
@@ -72,11 +75,7 @@ The purpose of this view is to provide a visual representation of the layout and
 With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addition to the juggling of many tasks all these task must be centrally located and accessible constantly while on the job, or while traveling with family and friends.  Having an app that handles the time consuming scheduling is another stressor you need not worry about.  Like any technology there are challenges that must be considered.  Privacy is at the front of all of our minds.  The information the application will store is very sensitive and must be stored safely and with personal privacy in mind.
 
 ## Conclusions:
-As we can see, blockchain operating systems offer us a full bunch of software by taking advantage of all of the overall blockchain concepts, allowing the integration of the current and future Blockchain Ecosystem on a single operating system platform. The efficiency, reliability, privacy and security are key values of this highly new approach of interacting with computer systems.
-
-The implementation of this technology in a current operating system is not simple, since it would have to be integrated with its kernel to record the tasks that users perform in it. On the other hand, its complete development is quite complex, since new technologies have to be integrated with the basic principles to create a completely new operating logic. In both cases, a large investment of resources is required. However, this first theoretical and practical approach was very compelling to learn the basics of Blockchain concepts and its integration with the entire technological ecosystem that surrounds it. 
-
-The contemporary trends of commerce will force us to adapt new ways to do things, but we must be cautious of how our data is managed by understanding, even a little, the way all of it works. It’s clear that this is just a very important checkpoint in the race to develop highly advanced technology that will capitalize and empower the digital world towards revolutionary horizons.
+Relationships are without a doubt the most important part of our lives. From significant others and family to co-workers and bosses we all have relationships that we have to maintain and continue to work on. Remembering special things about those relationships are a crucial part of keeping them healthy. Our app enables you to be prepared to make the most of those special moments. Forget no more and worry no more. With our gift tracking, put your stress to rest by making sure you have the right gift for the right person at the perfect moment. 
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
