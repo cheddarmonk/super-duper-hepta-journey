@@ -10,7 +10,7 @@
 * [Development](#Development)
    * [Architecture](#Architecture) 
    * [View](#View)
-* [Development Schedule](#Development Schedule)
+* [Development Schedule](#Development-Schedule)
 * [Opportunities and challenges](#Opportunities-and-challenges)
 * [Conclusions](#Conclusions)
 
@@ -72,6 +72,8 @@ To better understand the data, and how it will be processed we are providing a v
 
 The purpose of this view is to provide a visual representation of the layout and data flow.
 
+<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
+
 ## Development Schedule:
 The following are tentative due dates for each stage of development:
 - [x] Team Product Repository 23 Sep 2021
@@ -87,6 +89,8 @@ The following are tentative due dates for each stage of development:
 - [ ] Product Presentation 23 Nov 2021
 - [ ] Product Deployment 30 Nov 2021
 - [ ] Development Product Reflection 4 Dec 2021
+
+<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 
 ## Opportunities and challenges:
