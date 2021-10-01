@@ -65,11 +65,11 @@ For the backend persistent data storage Mongodb will be used for creation, readi
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## View:
-To better understand the data, and how it will be processed we are providing a visual representation of frontend of our project, backend and how the data will be rendered while processing through the full stack.
+To better understand the data, and how it will be processed we are providing a visual representation of the user interface of our project. 
+            
+![User_Interface](https://user-images.githubusercontent.com/54637063/135650567-9f4e2e9a-a940-44fa-988f-e0c5d37444a6.jpeg)
 
-  ![view](https://user-images.githubusercontent.com/54637063/135468905-9b871d2d-ad8d-4332-be6b-cb1f2be83eb3.png)
-
-The purpose of this view is to provide a visual representation of the layout and data flow.
+The purpose of this is to provide a visual representation of the layout and data flow.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
