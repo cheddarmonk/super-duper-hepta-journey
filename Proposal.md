@@ -53,15 +53,14 @@ This will be an operational prototype of birthday and gift tracker application. 
 ## Development:
 
 ### Architecture
-For this objective, the idea is to build a functional application that provides a web API with a persistent server side database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the application will use `NodeJs, Express web framework, and `AngularJS` for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes `AngularJs` ideal for any dynamic webpage and server technology.  See more of what [`AngularJs`](https://angular.io/) can do 
-<p align="center">
+For this objective, the idea is to build a functional application that provides a web API with a persistent server side database.  To accomplish this, the interface will be built with **`HTML`**, **`CSS`** and **`JavaScript`**.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the application will use **`NodeJs`**, **`Express`** web framework, and **`AngularJS`** for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes **`AngularJs`** ideal for any dynamic webpage and server technology.  See more of what [**`AngularJs`**](https://angular.io/) and [**`NodeJS`**](https://nodejs.org/en/about/) can do 
+
+For the backend persistent data storage Mongodb will be used for creation, reading/retrival, updating, and deleting records.  Mongodb is ideal for this applicaiton because of the flexability with document object modeling for development.  
+
   
 ![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG)
 
-![new_angular](https://user-images.githubusercontent.com/54637063/135466252-a9db2e76-9c73-4611-ae77-80d4559b3752.png)
-
-
-</p>
+![Blank diagram](https://user-images.githubusercontent.com/54637063/135622500-9728e6cb-5f7a-41fe-84a3-a4c998eaa924.jpeg)
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
