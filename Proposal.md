@@ -1,5 +1,5 @@
 
-# Personal Relationship Tracker with Gift Management
+# Proposal Birthday and Gift Tracker application
 
 ## Table of contents
 * [Main idea](#Main-idea)
@@ -10,6 +10,7 @@
 * [Development](#Development)
    * [Architecture](#Architecture) 
    * [View](#View)
+* [Development Schedule](#Development Schedule)
 * [Opportunities and challenges](#Opportunities-and-challenges)
 * [Conclusions](#Conclusions)
 
@@ -52,7 +53,7 @@ This will be an operational prototype of birthday and gift tracker application. 
 ## Development:
 
 ### Architecture
-For this objective, the idea is to build a functional application that provides a web API with a persistent server side database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the front end application will have `AngularJS` included for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes `AngularJs` ideal for any dynamic webpage and server technology.  See more of what [`AngularJs`](https://angular.io/) can do 
+For this objective, the idea is to build a functional application that provides a web API with a persistent server side database.  To accomplish this, the interface will be built with HTML, CSS and some `JavaScript`.  Using these technologies allows for rapid Agile development.  The interface will be simple but intuitive, so the user does not have to learn a process to use the application.  In addition, the application will use `NodeJs, Express web framework, and `AngularJS` for data binding,  dependency injection, and elimination  of code duplication.  All of this happens in the browser which makes `AngularJs` ideal for any dynamic webpage and server technology.  See more of what [`AngularJs`](https://angular.io/) can do 
 <p align="center">
   
 ![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG)
@@ -70,6 +71,23 @@ To better understand the data, and how it will be processed we are providing a v
   ![view](https://user-images.githubusercontent.com/54637063/135468905-9b871d2d-ad8d-4332-be6b-cb1f2be83eb3.png)
 
 The purpose of this view is to provide a visual representation of the layout and data flow.
+
+## Development Schedule:
+The following are tentative due dates for each stage of development:
+- [x] Team Product Repository 23 Sep 2021
+- [ ] Team Product Proposal 5 Oct 2021
+- [ ] Team Product Backlog 5 Oct 2021 
+- [ ] Sprint 1 Backlog 5 Oct 2021
+- [ ] Development Product Ownership 8 Oct 2021
+- [ ] Sprint 1 Product 1 21 Oct 2021
+- [ ] Sprint 1 Reflection 21 Oct 2021
+- [ ] Sprint 2 Backlog 26 Oct 2021
+- [ ] Sprint 2 Product 11 Nov 2021
+- [ ] Sprint 2 Reflection 11 Nov 2021
+- [ ] Product Presentation 23 Nov 2021
+- [ ] Product Deployment 30 Nov 2021
+- [ ] Development Product Reflection 4 Dec 2021
+
 
 ## Opportunities and challenges:
 With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addition to the juggling of many tasks all these task must be centrally located and accessible constantly while on the job, or while traveling with family and friends.  Having an app that handles the time consuming scheduling is another stressor you need not worry about.  Like any technology there are challenges that must be considered.  Privacy is at the front of all of our minds.  The information the application will store is very sensitive and must be stored safely and with personal privacy in mind.
