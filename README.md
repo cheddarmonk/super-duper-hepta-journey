@@ -1,6 +1,8 @@
 # **Welcome to the Super-DuperR-Hepta-Journey!**
-- [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki)
-- [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md)
+
+- <a href="https://github.com/cheddarmonk/super-duper-hepta-journey/wiki" target="_blank">New Wiki Page!</a>
+- [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
+- [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
 
 # User Story (Story Points = Med👕)
 **As a** end user of a `NodeJs` Birthday and Gift Tracker application  
