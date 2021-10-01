@@ -1,6 +1,5 @@
 # **Welcome to the Super-DuperR-Hepta-Journey!**
-
-- <a href="https://github.com/cheddarmonk/super-duper-hepta-journey/wiki" target="_blank">New Wiki Page!</a>
+Some links to help you find what you need.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
 
@@ -13,7 +12,7 @@
 
 ## Comments/Steps to implement 🥇
 
-### Setup Nodejs and Express:
+### Setup Nodejs and Express and Mongodb:
 - Insert the steps to setup the enviorment used for the app.
     
 ### Create Project in Visual Code(vsCode):
