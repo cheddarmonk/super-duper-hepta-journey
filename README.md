@@ -1,5 +1,5 @@
 # **Welcome to the Super-DuperR-Hepta-Journey!**
-Some links to help you find what you need.
+Some usefile links to help you find what you need.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
 
