@@ -74,19 +74,21 @@ The purpose of this is to provide a visual representation of the layout and data
 
 ## Development Schedule:
 The following are tentative due dates for each stage of development:
-- [x] Team Product Repository 23 Sep 2021
-- [ ] Team Product Proposal 5 Oct 2021
-- [ ] Team Product Backlog 5 Oct 2021 
-- [ ] Sprint 1 Backlog 5 Oct 2021
-- [ ] Development Product Ownership 8 Oct 2021
-- [ ] Sprint 1 Product 1 21 Oct 2021
-- [ ] Sprint 1 Reflection 21 Oct 2021
-- [ ] Sprint 2 Backlog 26 Oct 2021
-- [ ] Sprint 2 Product 11 Nov 2021
-- [ ] Sprint 2 Reflection 11 Nov 2021
-- [ ] Product Presentation 23 Nov 2021
-- [ ] Product Deployment 30 Nov 2021
-- [ ] Development Product Reflection 4 Dec 2021
+Task | Due Date
+------------     |     -------------
+Team Product Repository        | 23 Sep 2021
+Product Proposal               | 5 Oct 2021
+Product Backlog                | 5 Oct 2021
+Sprint 1 Backlog               | 5 Oct 2021
+Development Product Ownership  | 8 Oct 2021
+Sprint 1 Prodcut               | 21 Oct 2021
+Sprint 1 Reflection            | 21 Oct 2021
+Sprint 2 Backlog               | 26 Oct 2021
+Sprint 2 Product               | 11 Nov 2021
+Sprint 2 Reflection            | 11 Nov 2021
+Product Presentation           | 23 Nov 2021
+Product Deployment             | 30 Nov 2021
+Development Product Reflection | 4 Dec 2021
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
