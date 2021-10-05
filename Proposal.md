@@ -1,5 +1,5 @@
 
-# Proposal Birthday and Gift Tracker application
+# Proposal Occasion Tracker 
 Creators: TC, David and Cecilia
 
 Here are some useful links.
