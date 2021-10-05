@@ -28,7 +28,7 @@ There are many calendar applications on the market that provide similar function
 We've all heard the story of the husband who forgot his wife's birthday or their anniversary. If only he had remembered then there wouldn't be any couch surfing for him. When that friend goes above and beyond to get you that nice single malt whiskey for your birthday and in return you send him a 6-pack of bud-light. It just doesn't seem right. With the right tool you can avoid these issues and experience the freedom that comes with knowing what the right gift is for the right person. 
 
 
-![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg| width=60)
+![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg | width=60)
 
 
 The concept of reminders applications in not new but, it has room for development. Our approach provides an innovative way to help you let that special person know that you care. Now is the time to make the most of your relationships.  
