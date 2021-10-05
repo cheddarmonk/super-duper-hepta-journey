@@ -1,5 +1,7 @@
 
 # Proposal Birthday and Gift Tracker application
+Team members: TC, Cecilia, David 
+
 
 ## Table of contents
 * [Main idea](#Main-idea)
