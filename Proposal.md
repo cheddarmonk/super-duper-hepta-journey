@@ -59,7 +59,7 @@ The only way at the moment to fulfill both of these is to manually create a list
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Scope:
-This will be an operational prototype of birthday and gift tracker application.  The application will be an interactive web application that allows user input, storage, and data retrieval.  The application will interact with a Mongo DB.  The Mongo DB will be a persistent storage device for creation, retrieval,  updating, and deleting (CRUD) operations.  Other functional iterations of the application will be possible for future development.
+This will be an operational prototype of a occasion gift tracker application.  The application will be an interactive web application that allows user input, storage, and data retrieval.  The application will interact with a Mongo DB.  The Mongo DB will be a persistent storage device for creation, retrieval,  updating, and deleting (CRUD) operations.  Other functional iterations of the application will be possible for future development.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
