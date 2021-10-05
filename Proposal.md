@@ -3,9 +3,10 @@
 Creators: TC, David and Cecilia
 
 Here are some useful links.
-- [Check out our readme](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/README.md)
-- [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki)
-- [Check out the Repo](https://github.com/cheddarmonk/super-duper-hepta-journey)
+- [Check out our readme](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/README.md) page
+- [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
+- [Check out the Repo](https://github.com/cheddarmonk/super-duper-hepta-journey) page
+- [Check out the Projects](https://github.com/cheddarmonk/super-duper-hepta-journey/projects/1) section
 
 ## Table of contents
 * [Main idea](#Main-idea)
