@@ -38,7 +38,10 @@ We've all heard the story of the husband who forgot his wife's birthday or their
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Background:
-Under Construction
+As a consumer you have currently only three options to help plan for birthdays, anniversaries, holidays, and other special moments. You can use a calendar app like Google or Outlook to remind you of the date but then you are left to your own devices to prepare for the date. There are other apps like Gifster, Santa's Bag, and even Amazon to make list and help ordering gifts for that occasion. Problem is if you can't remember when you are supposed to attend the event how can you order the gift on time. On top of that none of the previous competitors are able to remind you what you bought last time, nor are they able to track what others have gifted you! Regifting a gift or giving a gift that is too underpriced or way too overpriced for the occassion is akward and tends to be very uncomfortable at best and offensive at worst. 
+
+The only way at the moment to fulfill both of these is to manually create a list digitally or on paper, then you have to store it and before you go to buy a gift next time, you then have to find it and then you get to compare. In short... its a major headache. 
+
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
