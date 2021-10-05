@@ -29,9 +29,7 @@ We've all heard the story of the husband who forgot his wife's birthday or their
 
 
 ![external-content duckduckgo](https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg)
-<p align="center">
- 
-</p>
+
 
 The concept of reminders applications in not new but, it has room for development. Our approach provides an innovative way to help you let that special person know that you care. Now is the time to make the most of your relationships.  
 
