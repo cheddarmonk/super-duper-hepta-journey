@@ -1,5 +1,5 @@
 
-# Proposal Occasion Gift Tracker 
+#  Occasion Gift Tracker Proposal 
 Creators: TC, David and Cecilia
 
 Here are some useful links.
