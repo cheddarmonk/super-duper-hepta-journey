@@ -91,7 +91,8 @@ The purpose of this is to provide a visual representation of the layout and data
 
 ## Development Schedule:
 The following are tentative due dates for each stage of development:
-Task | Due Date
+
+Task             |       Due Date
 ------------     |     -------------
 Team Product Repository        | 23 Sep 2021
 Product Proposal               | 5 Oct 2021
