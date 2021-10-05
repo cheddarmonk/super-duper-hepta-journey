@@ -5,6 +5,7 @@ Creators: TC, David and Cecilia
 Here are some useful links.
 - [Check out our readme](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/README.md)
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki)
+- [Check out the Repo](https://github.com/cheddarmonk/super-duper-hepta-journey)
 
 ## Table of contents
 * [Main idea](#Main-idea)
