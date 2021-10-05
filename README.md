@@ -2,6 +2,7 @@
 Some usefile links to help you find what you need.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
+- [Check out our Projects](https://github.com/cheddarmonk/super-duper-hepta-journey/projects/1) section
 
 # User Story (Story Points = Med👕)
 **As a** end user of a `NodeJs` Birthday and gift tracker application  
