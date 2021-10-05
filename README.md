@@ -4,7 +4,7 @@ Some usefile links to help you find what you need.
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
 
 # User Story (Story Points = Med👕)
-**As a** end user of a `NodeJs` Birthday and gift rracker application  
+**As a** end user of a `NodeJs` Birthday and gift tracker application  
 
 **I want** use the application on the web and mobile devices [like this one](insert link to herku) 👍
 
