@@ -4,11 +4,11 @@ Some usefile links to help you find what you need.
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page
 
 # User Story (Story Points = Med👕)
-**As a** end user of a `NodeJs` Birthday and Gift Tracker application  
+**As a** end user of a `NodeJs` Birthday and gift rracker application  
 
 **I want** use the application on the web and mobile devices [like this one](insert link to herku) 👍
 
-**So That** I don't have to use sticky notes as reminders, calendar apps, and third party applications to keep up with birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
+**So That** I don't have to use sticky notes, calendar apps, and third party applications to keep up with birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
 
 ## Comments/Steps to implement 🥇
 
