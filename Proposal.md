@@ -27,7 +27,7 @@ Being organized and knowing who is doing what on what date is a normal part of o
 
 Wouldn't it be nice to be able to keep track of all these important dates, celebration categories, and the gifts received or given?  Having the ability to quickly pull up who you gave a gift to for a baby shower two years ago would be as easy as pushing a few buttons.  What about knowing that you only gave your sister a birthday card last year but, she gave you a box of  your favorite cigars.
 
-Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.  Check out this <a href="https://youtu.be/FpGkLzGl1CI?t=20" target="_blank">video</a> from from Big Bang Theory that illustates the same problem.
+Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.  
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
@@ -35,7 +35,6 @@ Having this ability would allow you to tailor your choice of gifts for any occas
 We've all heard the story of the husband who forgot his wife's birthday or their anniversary. If only he had remembered then there wouldn't be any couch surfing for him. When that friend goes above and beyond to get you that nice single malt whiskey for your birthday and in return you send him a 6-pack of bud-light. It just doesn't seem right. With the right tool you can avoid these issues and experience the freedom that comes with knowing what the right gift is for the right person. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54637063/135366719-d77faaf6-fbca-4e21-b792-3e561bcb94fb.jpg" width="560" align="center">
 
 [![Big Bang Exchange gifts](https://res.cloudinary.com/marcomontalbano/image/upload/v1633456385/video_to_markdown/images/youtube--FpGkLzGl1CI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FpGkLzGl1CI?t=20 "Big Bang Exchange gifts")
 
