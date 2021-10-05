@@ -57,8 +57,9 @@ For this objective, the idea is to build a functional application that provides 
 
 For the backend persistent data storage Mongodb will be used for creation, reading/retrival, updating, and deleting records.  Mongodb is ideal for this applicaiton because of the flexability with document object modeling for development.  
 
-  
+ 
 ![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG)
+  
 
 ![Blank diagram](https://user-images.githubusercontent.com/54637063/135622500-9728e6cb-5f7a-41fe-84a3-a4c998eaa924.jpeg)
 
