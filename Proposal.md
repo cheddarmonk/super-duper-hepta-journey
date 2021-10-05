@@ -27,7 +27,7 @@ Being organized and knowing who is doing what on what date is a normal part of o
 
 Wouldn't it be nice to be able to keep track of all these important dates, celebration categories, and the gifts received or given?  Having the ability to quickly pull up who you gave a gift to for a baby shower two years ago would be as easy as pushing a few buttons.  What about knowing that you only gave your sister a birthday card last year but, she gave you a box of  your favorite cigars.
 
-Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.
+Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.  Check out this <a href="https://youtu.be/FpGkLzGl1CI?t=20" target="_blank">video</a> from from Big Bang Theory that illustates the same problem.
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
