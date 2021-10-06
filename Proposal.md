@@ -31,16 +31,13 @@ Wouldn't it be nice to be able to keep track of all these important dates, celeb
 
 Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.  
 
+Check out this [video](https://www.youtube.com/embed/FpGkLzGl1CI?start=20&end=50) of **Sheldon** from the Big Bang Theory with a similar problem.
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview:
 We've all heard the story of the husband who forgot his wife's birthday or their anniversary. If only he had remembered then there wouldn't be any couch surfing for him. When that friend goes above and beyond to get you that nice single malt whiskey for your birthday and in return you send him a 6-pack of bud-light. It just doesn't seem right. With the right tool you can avoid these issues and experience the freedom that comes with knowing what the right gift is for the right person. 
 
-<p align="center">
 
-[![Big Bang Exchange gifts](https://res.cloudinary.com/marcomontalbano/image/upload/v1633456385/video_to_markdown/images/youtube--FpGkLzGl1CI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FpGkLzGl1CI?t=20 "Big Bang Exchange gifts")
-
-</p>
 
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
