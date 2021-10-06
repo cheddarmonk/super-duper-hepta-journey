@@ -69,6 +69,13 @@ For this objective, the idea is to build a functional application that provides 
 
 For the backend persistent data storage Mongodb will be used for creation, reading/retrival, updating, and deleting records.  Mongodb is ideal for this applicaiton because of the flexability with document object modeling for development.  
 
+To develop the project our team will do the following:
+1.  Develop a plan of action which outlines the stages of development, (Product Proposal).
+1.  Use SCRUM methodology which includes several SCRUM iterative sprints consisting of planning, building, testing, and product reviews.
+1.  Deploy potentially shippable product at the end of each scrum sprint.
+1.  Repeat steps as necessary to complete the product.
+
+
  <h1 align="center"> 
   
   ![pic](https://user-images.githubusercontent.com/54637063/135461849-1f0ee9f2-40b9-4d55-a1d0-4e2372f50fa3.JPG) 
