@@ -120,6 +120,12 @@ Development Product Reflection | 4 Dec 2021
 ## Opportunities and challenges:
 With our lifestyles becoming more hectic than ever, it’s increasingly difficult for most of us to juggle our professional and personal lives. One moment you’re trying to meet an impossible deadline at work, and the next, you’re running errands for your home.  In addition to the juggling of many tasks all these task must be centrally located and accessible constantly while on the job, or while traveling with family and friends.  Having an app that handles the time consuming scheduling is another stressor you need not worry about.  Like any technology there are challenges that must be considered.  Privacy is at the front of all of our minds.  The information the application will store is very sensitive and must be stored safely and with personal privacy in mind.
 
+## Minimum Acceptance Criteria
+- [ ] User goes to website.
+- [ ] User selects category to find gift for.
+- [ ] User selects date range to find people who have birhtdays, weddings ect. in date range.
+- [ ] User presses submit button to see all bithdays/special occasions for date range and supplied gift and year given.
+
 ## Conclusions:
 Relationships are without a doubt the most important part of our lives. From significant others and family to co-workers and bosses we all have relationships that we have to maintain and continue to work on. Remembering special occasions and dates about those relationships are a crucial part of keeping them healthy. Our app uses light weight, simple to use open source web frameworks that enables you to be prepared to make the most of those special occasions. Forget no more and worry no more. With our gift tracking, put your stress to rest by making sure you have the right gift for the right person at the perfect moment. 
 
