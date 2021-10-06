@@ -7,6 +7,7 @@ Here are some useful links.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
 - [Check out the Repo](https://github.com/cheddarmonk/super-duper-hepta-journey) page
 - [Check out the Projects](https://github.com/cheddarmonk/super-duper-hepta-journey/projects/1) section
+- [Check out the Issues](https://github.com/cheddarmonk/super-duper-hepta-journey/issues) section.
 
 ## Table of contents
 * [Main idea](#Main-idea)
