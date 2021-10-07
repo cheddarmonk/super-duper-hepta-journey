@@ -20,6 +20,7 @@ Here are some useful links.
    * [View](#View)
 * [Development Schedule](#Development-Schedule)
 * [Opportunities and challenges](#Opportunities-and-challenges)
+* [Minimum Acceptance Criteria](#Minimum-Acceptance-Criteria)
 * [Conclusions](#Conclusions)
 
 ---
@@ -126,6 +127,8 @@ With our lifestyles becoming more hectic than ever, it’s increasingly difficul
 - [ ] User selects category to find gift for.
 - [ ] User selects date range to find people who have birhtdays, weddings ect. in date range.
 - [ ] User presses submit button to see all bithdays/special occasions for date range and supplied gift and year given.
+
+<a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Conclusions:
 Relationships are without a doubt the most important part of our lives. From significant others and family to co-workers and bosses we all have relationships that we have to maintain and continue to work on. Remembering special occasions and dates about those relationships are a crucial part of keeping them healthy. Our app uses light weight, simple to use open source web frameworks that enables you to be prepared to make the most of those special occasions. Forget no more and worry no more. With our gift tracking, put your stress to rest by making sure you have the right gift for the right person at the perfect moment. 
