@@ -49,6 +49,6 @@ app.put("/addname", (req, res) => {
 
 
 
-app.listen(port, () => {
-    console.log("Server listening on port " + port);
+app.listen(process.env.PORT || 8888, function() {
+    console.log('Listening on port 8888');
 });
