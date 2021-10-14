@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/add", (req, res) => {
-    res.sendFile(path.join(__dirname, '../pages', 'add.html'));
+    res.sendFile('pages/add.html', { root: __dirname });
 });
 
 app.get("/home", (req, res) => {
@@ -31,7 +31,7 @@ app.get("/home", (req, res) => {
 });
 
 app.get("/delete", (req, res) => {
-    res.sendFile(path.join(__dirname, '../pages', 'delete.html'))
+    res.sendFile('pages/delete.html', { root: __dirname });
 });
 
 app.get("/index", (req, res) => {
@@ -59,11 +59,6 @@ app.put("/addname", (req, res) => {
             res.status(400).send("Unable to update database");
         });
 });
-
-
-
-
-
 
 app.listen(process.env.PORT || 8888, function() {
     console.log('Listening on port 8888');
