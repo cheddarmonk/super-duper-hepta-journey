@@ -22,6 +22,22 @@ app.get("/", (req, res) => {
     res.sendFile('index.html', { root: __dirname });
 });
 
+app.get("/add", (req, res) => {
+    res.sendFile(path.join(__dirname, '../pages', 'add.html'));
+});
+
+app.get("/home", (req, res) => {
+    res.sendFile('index.html', { root: __dirname });
+});
+
+app.get("/delete", (req, res) => {
+    res.sendFile(path.join(__dirname, '../pages', 'delete.html'))
+});
+
+app.get("/index", (req, res) => {
+    res.sendFile('index.html', { root: __dirname });
+});
+
 app.post("/addname", (req, res) => {
     var myData = new User(req.body);
     myData.save()
