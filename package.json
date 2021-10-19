@@ -1,29 +1,27 @@
 {
-    "name": "super-duper-hepta-journey",
-    "version": "1.0.0",
-    "description": "Some usefile links to help you find what you need.\r - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page\r - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/Proposal.md) page\r - [Check out our Projects](https://github.com/cheddarmonk/super-duper-hepta-journey/projects/1) section.\r - [Check out our Issues](https://github.com/cheddarmonk/super-duper-hepta-journey/issues) section.",
-    "main": "app.js",
-    "dependencies": {
-        "express": "^4.17.1",
-        "mongodb": "^4.1.3",
-        "mongoose": "^6.0.10",
-        "node": "^16.10.0",
-        "nodemon": "^2.0.13"
-    },
-    "devDependencies": {},
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node app.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/cheddarmonk/super-duper-hepta-journey.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/cheddarmonk/super-duper-hepta-journey/issues"
-    },
-    "homepage": "https://github.com/cheddarmonk/super-duper-hepta-journey#readme"
+  "name": "crud-demo",
+  "version": "1.0.0",
+  "description": "Demo for Crud Express MongoDB",
+  "main": "index.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "restart": "node pm2.js crud-demo --update-env",
+    "dev": "nodemon server.js",
+    "sync": "node sync.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.7.2",
+    "pm2": "^4.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "rsync": "^0.6.1"
+  }
 }
