@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Occasion Tracker</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+
+  <body>
+    <h1 data-position="header">Occasion and Gift Tracker</h1>
+
+    <section data-position="add-occasion-info">
+      <h2>Add Occasin Info</h2>
+      <p>Enter your occasion info.  Example:
+        Name, occaison, gift, and date gift provided.
+      </p>
+
+      <form action="/quotes" method="POST">
+        <input type="text" placeholder="name" name="name" />
+        <input type="text" placeholder="occaison info" name="quote" />
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+
+    <section data-position="update-quote">
+      <div>
+        <h2>Update Important Info </h2>
+        <p>Choose the appropriate record to update</p>
+        <form action="/quotes" method="POST">
+          <input type="text" placeholder="name" name="updatename" /></br>
+        <button id="update-button">Update Info</button>
+      </div>
+    </section>
+
+    <section data-position="delete-quote">
+      <div>
+        <h2>Remove Info</h2>
+        <p>
+          Delete info. Does nothing if there is no generic quote
+        </p>
+        <form action="/quotes" method="POST">
+          <input type="text" id="deletename" name="deleteame" />
+        <button id="delete-button">Delete</button>
+      </div>
+      <div id="message"></div>
+    </section>
+
+    <section data-position="quotes">
+      <h2>Inportant info to Remember</h2>
+
+      <ol class="quotes">
+        <% for(var i = 0; i < quotes.length; i++) {%>
+        <li class="quote">
+          <span><%= quotes[i].name %></span>:
+          <span><%= quotes[i].quote %></span>
+        </li>
+        <% } %>
+      </ol>
+    </section>
+
+    <script src="/main.js"></script>
+  </body>
+</html>
