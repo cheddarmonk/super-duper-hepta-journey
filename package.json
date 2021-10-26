@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Demo for Crud Express MongoDB",
   "main": "index.js",
-  "scripts": { 
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "restart": "node pm2.js crud-demo --update-env",
@@ -18,10 +18,10 @@
     "ejs": "^3.0.2",
     "express": "^4.17.1",
     "mongodb": "^3.7.2",
-    "pm2": "^4.2.3"
+    "pm2": "^4.5.6"
   },
   "devDependencies": {
-    "nodemon": "^2.0.13",
+    "nodemon": "^2.0.14",
     "rsync": "^0.6.1"
   }
 }

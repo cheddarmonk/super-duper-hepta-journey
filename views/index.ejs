@@ -24,11 +24,11 @@
 
     <section data-position="update-quote">
       <div>
-        <h2>Generic Info</h2>
-        <p>
-         A generica occaison allows for inputing additional info.
-        </p>
-        <button id="update-button">Add/Info</button>
+        <h2>Update Important Info </h2>
+        <p>Choose the appropriate record to update</p>
+        <form action="/quotes" method="POST">
+          <input type="text" placeholder="name" name="updatename" /></br>
+        <button id="update-button">Update Info</button>
       </div>
     </section>
 
@@ -36,8 +36,10 @@
       <div>
         <h2>Remove Info</h2>
         <p>
-          Delete the generic info. Does nothing if there is no generic quote
+          Delete info. Does nothing if there is no generic quote
         </p>
+        <form action="/quotes" method="POST">
+          <input type="text" id="deletename" name="deleteame" />
         <button id="delete-button">Delete</button>
       </div>
       <div id="message"></div>
