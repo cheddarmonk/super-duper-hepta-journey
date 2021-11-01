@@ -16,7 +16,7 @@
       </p>
 
       <form action="/quotes" method="POST">
-        <input type="text" placeholder="name" name="name" />
+        <input type="text" placeholder="name" name="name" required/>
         <input type="text" placeholder="occaison info" name="quote" />
         <button type="submit">Submit</button>
       </form>
@@ -27,8 +27,9 @@
         <h2>Update Important Info </h2>
         <p>Choose the appropriate record to update</p>
         <form action="/quotes" method="POST">
-          <input type="text" placeholder="name" name="updatename" /></br>
+          <input type="text" placeholder="name" name="updatename" required/></br>
         <button id="update-button">Update Info</button>
+      </form>
       </div>
     </section>
 
@@ -38,15 +39,16 @@
         <p>
           Delete info. Does nothing if there is no generic quote
         </p>
-        <form action="/quotes" method="POST">
-          <input type="text" id="deletename" name="deleteame" />
+        <form action="/" method="DELETE">
+          <input type="text" id="deletename" name="deletename" required/>
         <button id="delete-button">Delete</button>
+      </form>
       </div>
       <div id="message"></div>
     </section>
 
     <section data-position="quotes">
-      <h2>Inportant info to Remember</h2>
+      <h2>Important info to Remember</h2>
 
       <ol class="quotes">
         <% for(var i = 0; i < quotes.length; i++) {%>
@@ -61,3 +63,5 @@
     <script src="/main.js"></script>
   </body>
 </html>
+
+

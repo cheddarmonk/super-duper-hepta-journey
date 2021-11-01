@@ -26,7 +26,7 @@ deleteButton.addEventListener('click', _ => {
     method: 'delete',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      name: 'Sally'
+      name: document.getElementById('deletename').value
     })
   })
     .then(res => {
@@ -35,6 +35,7 @@ deleteButton.addEventListener('click', _ => {
     .then(response => {
       if (response === 'No quote to delete') {
         messageDiv.textContent = 'No info to delete'
+        console.log("nothing to delete")
       } else {
         window.location.reload(true)
       }
