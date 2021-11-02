@@ -28,7 +28,7 @@
       <p>Choose the appropriate record to update</p>
       <form action="/quotes" method="POST">
         <input type="text" placeholder="name" name="name" required/>
-        <input type="text" placeholder="occaison" name="occasion" />
+        <input type="text" placeholder="occasion" name="occasion" />
         <button type="submit">Submit</button>
       </form>
     </section>
@@ -51,7 +51,7 @@
       <% for(var i=0; i < quotes.length; i++) {%>
         <li class="quote">
           <span><%= quotes[i].name %> </span>:
-          <span><%= quotes[i].occaison %> </span>
+          <span><%= quotes[i].occasion %> </span>
           <span><%= quotes[i].gift %> </span>
           <span><%= quotes[i].date %> </span>
         </li>
