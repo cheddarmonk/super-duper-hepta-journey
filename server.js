@@ -15,7 +15,7 @@ const connectionString = "mongodb+srv://dbuser:dbuser@node-demo.byxq7.mongodb.ne
 MongoClient.connect(connectionString, { useUnifiedTopology: true })
   .then(client => {
     console.log('Connected to Database')
-    const db = client.db('star-wars-quotes')
+    const db = client.db('occasion-tracker')
     const quotesCollection = db.collection('quotes')
 
     // ========================
