@@ -9,50 +9,36 @@
 
 <body>
   <h1 data-position="header">Occasion and Gift Tracker</h1>
-
   <section data-position="add-occasion-info">
-    <h2>Add Occasin Info</h2>
+    <h2>Add Occasion Info</h2>
     <p>Enter your occasion info. Example:
-      Name, occaison, gift, and date gift provided.
-    </p>
+      Name, occaison, gift, and date gift provided. </p>
 
     <form action="/quotes" method="POST">
       <input type="text" placeholder="name" name="name" />
-      <input type="text" placeholder="occaison info" name="quote" />
+      <input type="text" placeholder="occasion" name="occasion" />
+      <input type="text" placeholder="gift" name="gift" />
+      <input type="date" placeholder="date" name="date" />
       <button type="submit">Submit</button>
     </form>
   </section>
 
   <section data-position="update-quote">
-    <div>
-      <h2>Update Important Info </h2>
+      <h2>Update Occasion Info </h2>
       <p>Choose the appropriate record to update</p>
       <form action="/quotes" method="POST">
         <input type="text" placeholder="name" name="name" required/>
-        <input type="text" placeholder="occaison info" name="quote" />
+        <input type="text" placeholder="occaison" name="occasion" />
         <button type="submit">Submit</button>
       </form>
     </section>
 
-    <section data-position="update-quote">
+   <section data-position="delete-quote">
       <div>
-        <h2>Update Important Info </h2>
-        <p>Choose the appropriate record to update</p>
-        <form action="/quotes" method="POST">
-          <input type="text" placeholder="name" name="updatename" required/></br>
-        <button id="update-button">Update Info</button>
-      </form>
-      </div>
-    </section>
-
-    <section data-position="delete-quote">
-      <div>
-        <h2>Remove Info</h2>
-        <p>
-          Delete info. Does nothing if there is no generic quote
-        </p>
+        <h2>Remove Occasion Info</h2>
+        <p>Does nothing if there is no infromation to delete.</p>
         <form action="/" method="DELETE">
-          <input type="text" id="deletename" name="deletename" required/>
+        <input type="text" id="deletename" name="deletename" required/>
         <button id="delete-button">Delete</button>
       </form>
       </div>
@@ -60,16 +46,14 @@
     </section>
 
     <section data-position="quotes">
-      <h2>Important info to Remember</h2>
+      <h2>Occasion info to Remember</h2>
     <ol class="quotes">
       <% for(var i=0; i < quotes.length; i++) {%>
         <li class="quote">
-          <span>
-            <%= quotes[i].name %>
-          </span>:
-          <span>
-            <%= quotes[i].quote %>
-          </span>
+          <span><%= quotes[i].name %> </span>:
+          <span><%= quotes[i].occaison %> </span>
+          <span><%= quotes[i].gift %> </span>
+          <span><%= quotes[i].date %> </span>
         </li>
         <% } %>
     </ol>
