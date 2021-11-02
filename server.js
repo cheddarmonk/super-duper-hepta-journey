@@ -32,22 +32,27 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     // ========================
 
     app.get('/', (req, res) => {
+      console.log("1")
       db.collection('quotes').find().toArray()
         .then(quotes => {
           res.render('index.ejs', { quotes: quotes })
         })
         .catch(/* ... */)
+        
     })
 
     app.post('/quotes', (req, res) => {
+      console.log("2")
       quotesCollection.insertOne(req.body)
         .then(result => {
           res.redirect('/')
         })
         .catch(error => console.error(error))
+        
     })
 
     app.put('/quotes', (req, res) => {
+      console.log("3")
       quotesCollection.findOneAndUpdate(
         { name: 'Yoda' },
         {
@@ -62,9 +67,11 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
       )
         .then(result => res.json('Success'))
         .catch(error => console.error(error))
+        
     })
 
     app.delete('/quotes', (req, res) => {
+      console.log("4")
       quotesCollection.deleteOne(
         { name: req.body.name }
       )
@@ -75,6 +82,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
           res.json('Deleted Darth Vadar\'s quote')
         })
         .catch(error => console.error(error))
+        
     })
 
     // ========================
