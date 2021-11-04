@@ -22,6 +22,7 @@ update.addEventListener('click', _ => {
 })
 
 deleteButton.addEventListener('click', _ => {
+  console.log("Delete")
   fetch('/quotes', {
     method: 'delete',
     headers: { 'Content-Type': 'application/json' },

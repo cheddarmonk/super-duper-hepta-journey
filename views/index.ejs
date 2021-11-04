@@ -15,11 +15,11 @@
       Name, occaison, gift, and date gift provided. </p>
 
     <form action="/quotes" method="POST">
-      <input type="text" placeholder="name" name="name" />
-      <input type="text" placeholder="occasion" name="occasion" />
+      <input type="text" placeholder="name" name="name" required />
+      <input type="text" placeholder="occasion" name="quote" />
       <input type="text" placeholder="gift" name="gift" />
       <input type="date" placeholder="date" name="date" />
-      <button type="submit">Submit</button>
+      <button id="update-button">update</button>
     </form>
   </section>
 
@@ -27,7 +27,7 @@
       <h2>Update Occasion Info </h2>
       <p>Choose the appropriate record to update</p>
       <form action="/quotes" method="POST">
-        <input type="text" placeholder="name" name="name" required/>
+        <input type="text" placeholder="name" name="updatename" required/>
         <input type="text" placeholder="occasion" name="occasion" />
         <button type="submit">Submit</button>
       </form>
@@ -38,7 +38,7 @@
         <h2>Remove Occasion Info</h2>
         <p>Does nothing if there is no infromation to delete.</p>
         <form action="/" method="DELETE">
-          <input type="text" id="deletename" name="deletename" required/>
+        <input type="text" id="deletename" placeholder="Enter Name to delete" name="deletename" required/>
         <button id="delete-button">Delete</button>
       </form>
       </div>
