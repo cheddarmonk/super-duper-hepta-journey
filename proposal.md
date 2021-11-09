@@ -33,7 +33,7 @@ Wouldn't it be nice to be able to keep track of all these important dates, celeb
 
 Having this ability would allow you to tailor your choice of gifts for any occasion.  Now, you do not look like a cheap scape or don't give a gift that is inappropriate for the occasion.  
 
-To see the problme in action check out this [![video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Ffree%2Fbig-bang-theory%2F&psig=AOvVaw2seKZj7rEoFIUf5FM_DEFp&ust=1636578102737000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjFotWWjPQCFQAAAAAdAAAAABAD)(https://www.youtube.com/embed/FpGkLzGl1CI?start=20&end=50) of **Sheldon** from the Big Bang Theory with a similar problem.
+To see the problme in action check out this **[video](https://www.youtube.com/embed/FpGkLzGl1CI?start=20&end=50)** of **Sheldon** from the Big Bang Theory with a similar problem.
 <a href="#Table-of-contents"><p align="right">Return to the top</p></a>
 
 ## Overview:
