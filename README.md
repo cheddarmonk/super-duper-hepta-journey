@@ -22,15 +22,14 @@ Some usefile links to help you find what you need.
 
 **Disclaimer:**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
 
-### Setup Nodejs and Express and Mongodb:
+## Setup Nodejs and Express and Mongodb:
 - Install **`Nodejs`** [from here]( https://nodejs.org/en/download/) on your local developer environment.  
 -  Install and setup **`Express`** [from here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). The steps and procedures are the same for this project.
 - Install **`Mongodb`**.  In a **`vsCode`** terminal use the command **`npm install mongodb -- save`**.  This will install the mongodb so you can use it in your project.  To verify mongodb installed correctly use the command **`npm mongodb --version`**.  Below is a screen shot if mongodb install correctly.
 
     ![image](https://user-images.githubusercontent.com/54637063/140946556-e7f2b296-875a-4341-a17c-cac30d50457c.png)
 
-
-### Create Project in Visual Code(vsCode):
+## Create Project in Visual Code(vsCode):
 - To create the project open **`vsCode`** and start a new project.  Detailed steps on how to start a new in **`vsCode`**  [cand be found here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). Refer to the section titled **"Create Project in Visual Code"**.
 - Create a **`Mongodb Atlas`** cloud account to store and save persistent data to.  Use [this tutorial]( https://docs.atlas.mongodb.com/tutorial/create-atlas-account/) to create the account. 
 - To familiarize yourself with the Atlas environment use [this tutorial]( https://docs.atlas.mongodb.com/getting-started/).  It has all the necessary information to create a new account, deploy a cluster, add connections to your database etc.  
@@ -42,7 +41,7 @@ Some usefile links to help you find what you need.
 -  Both options are a GUI interface, and have all interactive features that allow you to manage and update your mongodb instance.
 
 
-### Code the app:
+## Code the app:
 Use the below suggestions to code the application to make standardized, clean, concise, clear code.  The suggestions reduce coding errors, allows for finding coding errors faster, and reduces the amount of code to write.  These suggestions are just a framework to follow and are not all inclusive and are by no way the only way to code your app. 
 1. Variable naming conventions
 1. Class and function naming conventions
@@ -77,19 +76,14 @@ update.addEventListener('click', _ => {
 
 - Check to see if you have any logical or syntax errors with your application.  Open a browser.  In the browser URL type localhost:3000  Localhost is the application and 3000 is the port number you assigned to the application.   Use this option to thoroughly test your application.  Fixing bugs and errors is easier here than when the application is fully deployed.
 
-### Deploy App to persistent URL
+## Deploy App to persistent URL
 - Deploy app to persistent URL for use and more testing.  
 
-### How to know when you are done. Acceptance Criteria 
+## How to know when you are done. Acceptance Criteria 
 - State criteria for user satisfaction and app functional use.
-
 
 
 ## **Developers Notes:**
 - Put in any additional notes that will help developer explain their process and way of thinking for the app (1000 foot view!!)
 
-<<<<<<< HEAD
- 
-Add old readme..
-=======
->>>>>>> 8ff8779f817fe73dd410ca29d4d1744a4adec47a
+
