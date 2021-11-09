@@ -60,7 +60,6 @@ update.addEventListener('click', _ => {
   })
   ```
 
-
 ## Test app Locally
 - Once you are confident the application is working test the application locally before deploying.  To test locally start your local server.  In the **`vsCode`** terminal type the command **`node server.js`**, or what ever you named your server file.  **`Node`** is the application that starts your server and allow it to be viewed in a web browser.  Below is a screen shot of **`NodeJS`** running and connected to a database.
 
@@ -68,14 +67,18 @@ update.addEventListener('click', _ => {
 
 - Check for logical or syntax errors withing your application.  Open a browser.  In the browser address bar type **`localhost:3000`**.  Localhost is the application and 3000 is the port number you assigned to the application.   Use this option to thoroughly test your application.  Fixing bugs and errors is easier locally than when the application is fully deployed.
 
-## Deploy App to persistent URL
-- Deploy app to persistent URL for use and more testing.  
+## Deploy App a Hosting Service
+- Once the local testing confirms all the bugs, logial errors, and syntax problems are fixed deploy to hosting service so the application can be access from any internet connection.
 
-## How to know when you are done. Acceptance Criteria 
-- State criteria for user satisfaction and app functional use.
+- Create, or login to a [Heroku](https://id.heroku.com/login) account.
+- Click "New" create new app.  Input app name.  Heroku provides a notification if the name does not meet their requirments.  Choose U.S region >> create app icon.
+- Connect the app to your Github repo.  Input the repo name to connect.
+- Ensure **`Enable Automatic Deploys`** and **`Deploy Branch`** is clicked to automate the updates from Github repo.
 
-
-## **Developers Notes:**
-- Put in any additional notes that will help developer explain their process and way of thinking for the app (1000 foot view!!)
+## Acceptance Criteria 
+[] Are you able to access the app from a internet connection.
+[] Is the app useable and are the features working correctly.
+[] Is the app storing your information in Atlas in the cloud.
+[] Is the app displaying the information correctly.
 
 
