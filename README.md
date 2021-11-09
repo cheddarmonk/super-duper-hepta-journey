@@ -67,7 +67,7 @@ update.addEventListener('click', _ => {
 
 - Check for logical or syntax errors in your application.  Open a browser.  In the address bar type **`localhost:3000`**.  Localhost is the application and 3000 is the port number assigned to the application.   Use this oppurtunity to thoroughly test your application.  Fixing bugs and errors is easier locally than when the application is fully deployed.
 
-## Deploy App a Hosting Service
+## Deploy App to Hosting Service
 - Once the local testing confirms all the bugs, logial errors, and syntax problems are fixed deploy to hosting service so the application can be access from a internet connection.
 
 - Create, or login to a [Heroku](https://id.heroku.com/login) account.
