@@ -65,13 +65,13 @@ update.addEventListener('click', _ => {
 
 ![image](https://user-images.githubusercontent.com/54637063/140949455-dff9d14f-a671-4146-84c7-9381f2f22995.png)
 
-- Check for logical or syntax errors withing your application.  Open a browser.  In the browser address bar type **`localhost:3000`**.  Localhost is the application and 3000 is the port number you assigned to the application.   Use this option to thoroughly test your application.  Fixing bugs and errors is easier locally than when the application is fully deployed.
+- Check for logical or syntax errors in your application.  Open a browser.  In the address bar type **`localhost:3000`**.  Localhost is the application and 3000 is the port number assigned to the application.   Use this oppurtunity to thoroughly test your application.  Fixing bugs and errors is easier locally than when the application is fully deployed.
 
 ## Deploy App a Hosting Service
-- Once the local testing confirms all the bugs, logial errors, and syntax problems are fixed deploy to hosting service so the application can be access from any internet connection.
+- Once the local testing confirms all the bugs, logial errors, and syntax problems are fixed deploy to hosting service so the application can be access from a internet connection.
 
 - Create, or login to a [Heroku](https://id.heroku.com/login) account.
-- Click "New" create new app.  Input app name.  Heroku provides a notification if the name does not meet their requirments.  Choose U.S region >> create app icon.
+- Click **`"New"`** >> **`Create new app`**.  Input app name.  Heroku will provide a notification if the app name does not meet their requirments.  Choose **`U.S region`** >> create app icon.
 - Connect the app to your Github repo.  Input the repo name to connect.
 - Ensure **`Enable Automatic Deploys`** and **`Deploy Branch`** is clicked to automate the updates from Github repo.
 
