@@ -13,7 +13,7 @@ Some usefile links to help you find what you need.
 **So That** I don't have to use sticky notes, third party calendar apps, and paper notes to keep of birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
 
 ## Comments/Steps to implement 🥇
-**##Disclaimer**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
+**Disclaimer**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
 ### Setup Nodejs and Express and Mongodb:
 - Install **`Nodejs`** [from here]( https://nodejs.org/en/download/) on your local developer environment.  
 -  Install and setup **`Express`** [from here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). The steps and procedures are the same for this project.
@@ -30,7 +30,7 @@ Some usefile links to help you find what you need.
     ![image](https://user-images.githubusercontent.com/54637063/140946556-e7f2b296-875a-4341-a17c-cac30d50457c.png)
 
 ## Create Project in Visual Code(vsCode):
-- To create the project open **`vsCode`** and start a new project.  Detailed steps on how to start a new in **`vsCode`**  [cand be found here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). Refer to the section titled **"Create Project in Visual Code"**.
+- To create the project open **`vsCode`** and start a new project.  Detailed steps on how to start a new project in **`vsCode`**  [cand be found here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). Refer to the section titled **"Create Project in Visual Code"**.
 - Create a **`Mongodb Atlas`** cloud account to store and save persistent data to.  Use [this tutorial]( https://docs.atlas.mongodb.com/tutorial/create-atlas-account/) to create the account. 
 - To familiarize yourself with the Atlas environment use [this tutorial]( https://docs.atlas.mongodb.com/getting-started/).  It has all the necessary information to create a new account, deploy a cluster, add connections to your database etc.  
 
