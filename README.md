@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # **Welcome to the Super-DuperR-Hepta-Journey!**
 Some usefile links to help you find what you need.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
@@ -89,4 +87,3 @@ update.addEventListener('click', _ => {
 - Put in any additional notes that will help developer explain their process and way of thinking for the app (1000 foot view!!)
 
 
->>>>>>> b99db18ed0c549b1a6d806f49ebaabdb4cf522a7
