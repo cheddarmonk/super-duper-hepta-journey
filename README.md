@@ -76,9 +76,9 @@ update.addEventListener('click', _ => {
 - Ensure **`Enable Automatic Deploys`** and **`Deploy Branch`** is clicked to automate the updates from Github repo.
 
 ## Acceptance Criteria 
-[] Are you able to access the app from a internet connection.
-[] Is the app useable and are the features working correctly.
-[] Is the app storing your information in Atlas in the cloud.
-[] Is the app displaying the information correctly.
+- [ ] Are you able to access the app from a internet connection.
+- [ ] Is the app useable and are the features working correctly.
+- [ ] Is the app storing your information in Atlas in the cloud.
+- [ ] Is the app displaying the information correctly.
 
 
