@@ -13,7 +13,8 @@ Some usefile links to help you find what you need.
 **So That** I don't have to use sticky notes, third party calendar apps, and paper notes to keep of birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
 
 ## Comments/Steps to implement 🥇
-**##Disclaimer**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
+
+**Disclaimer:**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
 
 ### Setup Nodejs and Express and Mongodb:
 - Install **`Nodejs`** [from here]( https://nodejs.org/en/download/) on your local developer environment.  
@@ -36,12 +37,39 @@ Some usefile links to help you find what you need.
 
 
 ### Code the app:
-- Show snipets of the code and how it works, programing language ect.
+Use the below suggestions to code the application to make standardized, clean, concise, clear code.  The suggestions reduce coding errors, allows for finding coding errors faster, and reduces the amount of code to write.  These suggestions are just a framework to follow and are not all inclusive and are by no way the only way to code your app. 
+1. Variable naming conventions
+1. Class and function naming conventions
+1. Clear and concise comments
+1. Indentations
+1. Portability
+1. Reusability and scalability
+1. Testing
+- Use whatever coding techniques and practices you are comfortable and confident in.  Below is a snipet of JavaScript code used in our application.
+
+```JavaScript
+const update = document.querySelector('#update-button')
+const deleteButton = document.querySelector('#delete-button')
+const messageDiv = document.querySelector('#message')
+
+update.addEventListener('click', _ => {
+  fetch('/quotes', {
+    method: 'put',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      name: 'Sally',
+      quote: 'Birthday, CakePoper, 2012.'
+    })
+  })
+  ```
 
 
 ## Test app locally:
-- Explain how to test the app locally.  Test for bugs, programing logical errors ect.
+- Once you are confident the application is working test the application locally before deploying the application.  To test the application locally start your local server.  In the **`vsCode`** terminal type the command **`node server.js`**.  `Node is the application that will start your server and allow it to be viewed in the web browser of your choice.  Below is a screen shot.
 
+![image](https://user-images.githubusercontent.com/54637063/140949455-dff9d14f-a671-4146-84c7-9381f2f22995.png)
+
+- Check to see if you have any logical or syntax errors with your application.  Open a browser.  In the browser URL type localhost:3000  Localhost is the application and 3000 is the port number you assigned to the application.   Use this option to thoroughly test your application.  Fixing bugs and errors is easier here than when the application is fully deployed.
 
 ### Deploy App to persistent URL
 - Deploy app to persistent URL for use and more testing.  
