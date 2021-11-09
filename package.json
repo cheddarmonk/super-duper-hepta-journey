@@ -17,7 +17,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.0.2",
     "express": "^4.17.1",
-    "mongodb": "^3.7.2",
+    "mongodb": "^3.7.3",
     "pm2": "^4.5.6"
   },
   "devDependencies": {

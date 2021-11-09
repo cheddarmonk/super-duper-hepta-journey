@@ -13,6 +13,12 @@ Some usefile links to help you find what you need.
 **So That** I don't have to use sticky notes, calendar apps, and third party applications to keep up with birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
 
 ## Comments/Steps to implement 🥇
+**##Disclaimer**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, library, and coding editing choose any environment you are most comfortable and familiar with.
+### Setup Nodejs and Express and Mongodb:
+- Install **`Nodejs`** [from here]( https://nodejs.org/en/download/) on your local developer environment.  
+-  Install and setup **`Express`** [from here]( https://github.com/04banshee/Dev-Training-Lab-ALPHA). The steps and procedures are the same for this project.
+- Install **`Mongodb`**  In a **`vsCode`** terminal use the command **`npm install mongodb -- save`**.  This will install the mongodb so you can use it in your project.  To verify mongodb installed correctly use the command **`npm mongodb --version`**.  Below is a screen shot if mongodb install correctly.
+
 
 ### Setup Nodejs and Express and Mongodb:
 - Insert the steps to setup the enviorment used for the app.
