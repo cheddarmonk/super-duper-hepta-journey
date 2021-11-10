@@ -10,7 +10,7 @@ Some usefile links to help you find what you need.
 
 **I want** to use the application on the web and mobile devices [like this one](https://super-duper-hepta-journey.herokuapp.com/) 👍
 
-**So That** I don't have to use sticky notes, third party calendar apps, and paper notes to keep of birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
+**So That** I don't have to use sticky notes, third party calendar apps, and paper notes to keep birthdays, wedding anniversaries, and other important dates and the gifts supplied for these events.
 
 ## Comments/Steps to implement 🥇
 **Disclaimer**  The steps and procedures in this project were performed using **`Visual Studio Code`**, **`NodeJS`**, **`Express`** web framework, and **`Mongodb`**.  For data dependencies, libraries, and code editing choose any environment you are most comfortable and familiar with.
