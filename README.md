@@ -1,4 +1,4 @@
-# **Welcome to the Super-DuperR-Hepta-Journey!**
+# **Welcome to the Super-Duper-Hepta-Journey!**
 Some usefile links to help you find what you need.
 - [Check out our Wiki](https://github.com/cheddarmonk/super-duper-hepta-journey/wiki) page
 - [Check out our Proposal](https://github.com/cheddarmonk/super-duper-hepta-journey/blob/main/proposal.md) page
