@@ -41,7 +41,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
         
     })
 
-    app.post('/quotes', (req, res) => {
+    app.post('/occasion', (req, res) => {
       console.log("2")
       quotesCollection.insertOne(req.body)
         .then(result => {
@@ -51,7 +51,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
         
     })
 
-    app.put('/quotes', (req, res) => {
+    app.put('/occasion', (req, res) => {
       console.log("3")
       quotesCollection.findOneAndUpdate(
         { name: 'Yoda' },
