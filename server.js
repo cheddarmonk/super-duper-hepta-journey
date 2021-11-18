@@ -32,7 +32,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     // ========================
 
     app.get('/', (req, res) => {
-      console.log("1")
+      console.log("Get INFO")
       db.collection('quotes').find().toArray()
         .then(quotes => {
           res.render('index.ejs', { quotes: quotes })
@@ -42,7 +42,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     })
 
     app.post('/occasion', (req, res) => {
-      console.log("2")
+      console.log("Add TO DB")
       quotesCollection.insertOne(req.body)
         .then(result => {
           res.redirect('/')
@@ -52,7 +52,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     })
 
     app.put('/occasion', (req, res) => {
-      console.log("3")
+      console.log("Update")
       quotesCollection.findOneAndUpdate(
         { name: 'Yoda' },
         {
@@ -71,15 +71,17 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     })
 
     app.delete('/quotes', (req, res) => {
-      console.log("4")
+      console.log("Start Delete")
       quotesCollection.deleteOne(
         { name: req.body.name }
       )
         .then(result => {
           if (result.deletedCount === 0) {
-            return res.json('No quote to delete')
+            console.log("nothing Found")
+            return res.json('Cannot Find Entry')
           }
-          res.json('Deleted Darth Vadar\'s quote')
+          console.log("5")
+          res.json("Deleted Darth Vader's quote")
         })
         .catch(error => console.error(error))
         
