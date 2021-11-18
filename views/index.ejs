@@ -8,18 +8,18 @@
 </head>
 
 <body>
-  <h1 data-position="header">Occasion and Gift Tracker</h1>
+  <h1 data-position="header">Occasion and Gift Tracker: <a href="https://github.com/cheddarmonk/super-duper-hepta-journey">Repository</a></h1>
   <section data-position="add-occasion-info">
     <h2>Add Occasion Info</h2>
-    <p>Enter your occasion info. Example:
-      Name, occaison, gift, and date gift provided. </p>
+    <p>Enter your occasion/gift info. Example:
+      Name, occasion, gift, and date gift provided. </p>
 
     <form action="/occasion" method="POST">
       <input type="text" placeholder="name" name="name" required />
       <input type="text" placeholder="occasion" name="occasion" />
       <input type="text" placeholder="gift" name="gift" />
       <input type="date" placeholder="date" name="date" />
-      <button id="update-button">update</button>
+      <button id="update-button">Add Entry</button>
     </form>
   </section>
 
@@ -29,17 +29,17 @@
       <form action="/quotes" method="POST">
         <input type="text" placeholder="name" name="updatename" required/>
         <input type="text" placeholder="occasion" name="occasion" />
-        <button type="submit">Submit</button>
+        <button type="submit">Update Entry</button>
       </form>
     </section>
 
    <section data-position="delete-quote">
       <div>
         <h2>Remove Occasion Info</h2>
-        <p>Does nothing if there is no infromation to delete.</p>
+        <p>Does nothing if there is no information to delete.</p>
         <form action="/" method="DELETE">
         <input type="text" id="deletename" placeholder="Enter Name to delete" name="deletename" required/>
-        <button id="delete-button">Delete</button>
+        <button id="delete-button">Delete Entry</button>
       </form>
       </div>
       <div id="message"></div>

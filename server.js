@@ -81,7 +81,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
             return res.json('Cannot Find Entry')
           }
           console.log("5")
-          res.json('Deleted Darth Vadar\'s quote')
+          res.json("Deleted Darth Vader's quote")
         })
         .catch(error => console.error(error))
         
